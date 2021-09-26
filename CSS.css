@@ -1,0 +1,30 @@
+body{
+    background-color:peachpuff
+}
+
+#GIF{
+   
+        width: 700px;
+        height: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        
+      }
+
+
+#text{
+    text-align: center;
+    font-size: 72px;
+    color:royalblue;
+    font-family:"Bonheur Royale";
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#sub{
+    text-align: right;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
